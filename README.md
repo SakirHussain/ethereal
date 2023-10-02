@@ -1,1 +1,3 @@
-## [Crafting Interpreters] (https://craftinginterpreters.com/)
+## Crafting Interpreters
+
+[undoing some hilariously abtracted ideas](https://craftinginterpreters.com/)
